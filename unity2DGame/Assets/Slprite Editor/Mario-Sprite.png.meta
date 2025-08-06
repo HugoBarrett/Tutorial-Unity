@@ -103,9 +103,9 @@ TextureImporter:
       name: Mario-Sprite_0
       rect:
         serializedVersion: 2
-        x: 31
+        x: 34
         y: 0
-        width: 418
+        width: 416
         height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -113,10 +113,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 353f11714cf0e5070800000000000000
-      internalID: 8096926514933789523
+      spriteID: efc5b588e6592a646ae69346a42c7122
+      internalID: -331503940
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 01c5b4055c07d0b48babee6f7ee93977
     internalID: 0
     vertices: []
     indices: 
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mario-Sprite_0: -331503940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
