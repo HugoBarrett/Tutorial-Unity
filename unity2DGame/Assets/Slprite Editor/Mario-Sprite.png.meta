@@ -103,16 +103,24 @@ TextureImporter:
       name: Mario-Sprite_0
       rect:
         serializedVersion: 2
-        x: 34
+        x: 0
         y: 0
-        width: 416
+        width: 512
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
-      outline: []
-      physicsShape: []
+      outline:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
+      physicsShape:
+      - - {x: 0, y: -256}
+        - {x: 256, y: 0}
+        - {x: 0, y: 256}
+        - {x: -256, y: 0}
       tessellationDetail: 0
       bones: []
       spriteID: efc5b588e6592a646ae69346a42c7122
