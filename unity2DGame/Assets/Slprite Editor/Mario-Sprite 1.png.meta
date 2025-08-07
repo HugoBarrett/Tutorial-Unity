@@ -108,12 +108,47 @@ TextureImporter:
         width: 418
         height: 512
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: -14, y: -192}
+        - {x: -14, y: -162}
+        - {x: 14, y: -192}
+        - {x: 16, y: -194}
+        - {x: 46, y: -194}
+        - {x: 46, y: -256}
+        - {x: 209, y: -256}
+        - {x: 209, y: -215}
+        - {x: 150, y: -163}
+        - {x: 209, y: -165}
+        - {x: 209, y: -23}
+        - {x: 178, y: 5}
+        - {x: 144, y: 30}
+        - {x: 209, y: 95}
+        - {x: 209, y: 129}
+        - {x: 208, y: 130}
+        - {x: 181, y: 162}
+        - {x: 118, y: 189}
+        - {x: 176, y: 190}
+        - {x: 178, y: 192}
+        - {x: 181, y: 226}
+        - {x: 122, y: 256}
+        - {x: -82, y: 256}
+        - {x: -114, y: 224}
+        - {x: -146, y: 197}
+        - {x: -178, y: 164}
+        - {x: -181, y: 62}
+        - {x: -149, y: 32}
+        - {x: -178, y: 4}
+        - {x: -209, y: -27}
+        - {x: -209, y: -166}
+        - {x: -181, y: -193}
+        - {x: -209, y: -223}
+        - {x: -209, y: -256}
+        - {x: -46, y: -256}
+      tessellationDetail: 0.363
       bones: []
       spriteID: 3af80ca3539175c20800000000000000
       internalID: 3195050177052315555
@@ -125,7 +160,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 3f9fb46e32027034d9f86dc4abdd0e65
     internalID: 0
     vertices: []
     indices: 
@@ -134,7 +169,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mario-Sprite 1_0: 3195050177052315555
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
